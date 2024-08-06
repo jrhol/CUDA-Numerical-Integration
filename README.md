@@ -2,7 +2,7 @@
 
 ## Summary
 1. This program evaluates the integral of a graphical function over a finite range using the rectangle mid-point rule.
-2. In this particular example we are evaluating $$ f(x) = {e^{-x}}^{2} $$ between −∞, ∞.
+2. In this particular example we are evaluating $$f(x) = {e^{-x}}^{2}$$ between −∞, ∞.
 3. However, when plotting this function it can be seen the area under the curve reaches 0 rapidly, hence a finite integration over the range -5,5 is suitable.
 
 
